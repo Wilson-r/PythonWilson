@@ -7,3 +7,8 @@ dizionario = raccolta di elementi a cui ognuno di essi viene asseganta una "chia
 funzioni = Insieme di istruzioni che possiamo richiamare utlizzando il nome della funzione e dandogli dei valori in input 
 parametri formali = Vengono utilizzati per la creazione di "moduli" (es. una funzione)
 parametri attuali = Sostituiscono i parametri formali nel momento in cui viene richiamato il "modulo" 
+
+
+stringa di connesione database del prof = "mongodb://webUser:xxx123xxx@cluster0-shard-00-00.algwo.mongodb.net:27017,cluster0-shard-00-01.algwo.mongodb.net:27017,cluster0-shard-00-02.algwo.mongodb.net:27017/myFirstDatabase?ssl=true&replicaSet=atlas-am4cb3-shard-0&authSource=admin&retryWrites=true&w=majority"
+
+
