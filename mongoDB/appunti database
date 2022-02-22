@@ -2,3 +2,12 @@ I database si dividono in database RELAZIONALI (SQL) e database NON RELAZIONALI 
 Il più famoso è MongoDB (che fa parte della famiglia dei non relazionali)
 
 SQL STRUCTURED QUERY LENGUAGE: linguaggio di interrogazione strutturato 
+
+MongoDB: modello dati; ovvero come questo database colleziona i dati, nel caso di mongodb è a DOCUMENTI. questi documnenti posso essere rappresentati come un dizionario di pythonn
+che mongodb chiama OGGETTO. Mongodb permette di avere chiavi diverse in documenti diversi, cosa che non è permessa nei database relazionali
+
+Nel caso avessimo bisogno di piu documenti vengono immagazzinati in una lista, chiamata COLLECTION (lista di dizionari)
+
+ricapitolando, mongodb è un insieme di collection, le collection (liste) sono insiemi di documenti (dizionari). i documenti possono contenere più campi. 
+
+La flessiblità di questi database può essere sia un vantaggio che svantaggio
